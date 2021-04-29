@@ -75,4 +75,4 @@ git push origin gh-pages
 
 Your app will be visible shortly at `https://YOUR_GITHUB_NICKNAME.github.io/taxi-fare-interface`.
 
-
+Or you can test it at https://magloirend.github.io/taxi-fare-interface/
