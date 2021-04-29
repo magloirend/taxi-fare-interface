@@ -1,6 +1,3 @@
-var myHeaders = new Headers(); // Currently empty
-myHeaders.append('Content-Security-Policy', 'upgrade-insecure-requests');
-
 const algoliaPlacesApiAppId = 'plU4N8HG6QWK';
 const algoliaPlacesApiKey = '1131438afb49f60a48ed468c5af189b8';
 const mapboxApiToken = 'pk.eyJ1IjoibWFnbG9pcmVuZCIsImEiOiJja21nNHhxczMwdXF0Mm5wajk2c2FiZWg0In0.X68-kwMpA3jC8md4OL_b6A';
