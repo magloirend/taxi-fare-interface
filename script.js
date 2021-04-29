@@ -1,4 +1,5 @@
-res.setHeader('Content-Security-Policy', "upgrade-insecure-requests")
+var myHeaders = new Headers(); // Currently empty
+myHeaders.append('Content-Security-Policy', 'upgrade-insecure-requests');
 
 const algoliaPlacesApiAppId = 'plU4N8HG6QWK';
 const algoliaPlacesApiKey = '1131438afb49f60a48ed468c5af189b8';
